@@ -90,6 +90,12 @@ def advanced_decision (NSS):
 
 college()
 
+## this series of print statements is to test branch functionality
+
+print("his series of print statements is to test branch functionality")
+print("this series of print statements is to test branch functionality")
+print("this series of print statements is to test branch functionality")
+
 	
 exit()
 
