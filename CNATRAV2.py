@@ -1,5 +1,6 @@
 from sys import exit
 
+print("See if the push pull works - Tony")
 
 def college():
 	print ("Where did you get your commission?")
